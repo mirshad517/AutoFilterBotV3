@@ -24,7 +24,7 @@ Bot Owner Only
 /total How Many Files Added In Database
 /logger  Get Logs
 /delete Delete File From Database
-@dev_mirshad 
+അപ്പൊ എങ്ങനാ പൊളിക്കല്ലേ 😂😂
 """
 
 ABOUT = """
