@@ -38,5 +38,5 @@ ABOUT = """
 
 ➥ Support : [Click Me](https://instagram.com/mirshad_kvr?utm_medium=copy_link)
 
-➥ Maintain: Amal Mirshad 
+➥ Maintain: Amal & Mirshad 
 """
