@@ -23,7 +23,8 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**Hi, ഞാൻ ഒരു bot ആണ് public ആയി എല്ലാവർക്കും യൂസ് ചെയ്യാം
+എന്നെ ഉണ്ടാക്കിയത് @dev_mirshad ആണ് 🤩**
 
 Here you can search files in inline mode. Just press follwing buttons and start searching.
 """
